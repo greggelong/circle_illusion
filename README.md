@@ -21,7 +21,7 @@ A quick #P5js sketch partially inspired by a numberphile video on trig functions
   
 ## [see it run](https://editor.p5js.org/greggelong/present/_HLtlcvEw)
   
- ## sinCircleIllusion
+## sinCircleIllusion
  
  Another #P5js sketch inspired by dogs we know, and trig functions.  
  
