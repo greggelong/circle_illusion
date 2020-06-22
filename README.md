@@ -21,4 +21,12 @@ A quick #P5js sketch partially inspired by a numberphile video on trig functions
   
   [see it run](https://editor.p5js.org/greggelong/present/_HLtlcvEw)
   
-  
+ ## sinCircleIllusion
+ 
+ Another #P5js sketch inspired by dogs we know, and trig functions.  
+ 
+ The sketch starts with an array of ball objects named after loved ones. they are actually moving in straight lines up and down mapping the y coordinate to the sine of the x coordinate, but because canvas is rotated to get the other angles.  And focusing on the group you get the impression of circular motion. When the mouse is clicked or the screen is tapped more balls are added. 
+ 
+ see code for more comments
+ 
+[see it run](https://editor.p5js.org/greggelong/present/YwUKDeeok)
