@@ -2,6 +2,9 @@
 coding trig functions and polar coordinates to create a circle_illusion
 
 ## sinCosCircle
+
+![sinCos](sinCos.png)
+
 A quick #P5js sketch partially inspired by a numberphile video on trig functions. Also partially inspired by a dog we know. Let's call him Chewko. He runs in circles and Mj and I run back and forth. This could be an abstract visualization of our play. Chewko is the blue circle of course. And our motions are all defined by sin, cos, or both. I am again naming objects after loved ones.
  
  updateY(x) {
@@ -22,6 +25,8 @@ A quick #P5js sketch partially inspired by a numberphile video on trig functions
 ## [see it run](https://editor.p5js.org/greggelong/present/_HLtlcvEw)
   
 ## sinCircleIllusion
+
+![circleIllusion](circleIllusion.png)
  
  Another #P5js sketch inspired by dogs we know, and trig functions.  
  
