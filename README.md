@@ -35,3 +35,6 @@ A quick #P5js sketch partially inspired by a numberphile video on trig functions
  see code for more comments
  
 ## [see it run](https://editor.p5js.org/greggelong/present/YwUKDeeok)
+
+
+[Home](https://greggelong.github.io/)
