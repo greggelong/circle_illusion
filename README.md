@@ -22,7 +22,10 @@ A quick #P5js sketch partially inspired by a numberphile video on trig functions
   
   see code for more comments
   
-## [see it run](https://editor.p5js.org/greggelong/present/_HLtlcvEw)
+ [see it run on p5 editor](https://editor.p5js.org/greggelong/present/_HLtlcvEw)
+
+ [see it run on gitHub](https://greggelong.github.io/circle_illusion/sinCircleIllusion)
+
   
 ## sinCircleIllusion
 
@@ -34,7 +37,9 @@ A quick #P5js sketch partially inspired by a numberphile video on trig functions
  
  see code for more comments
  
-## [see it run](https://editor.p5js.org/greggelong/present/YwUKDeeok)
+[see it run on p5 editor](https://editor.p5js.org/greggelong/present/YwUKDeeok)
+
+[see it run on gitHub](https://greggelong.github.io/circle_illusion//sinCosCircle)
 
 
 [Home](https://greggelong.github.io/)
